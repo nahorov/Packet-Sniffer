@@ -1,5 +1,5 @@
 # Generic-Terminal-Packet-Sniffer
-This is a Packet Sniffer in C++ for terminal purposes. Works best in Linux and Unix-like systems. 
+This is a Packet Sniffer in C++ to be run on the terminal. Works best in Linux and Unix-like systems. 
 It is to be natively compiled on the system, so GCC is a prerequisite.
 
 # For Unix-like systems:
