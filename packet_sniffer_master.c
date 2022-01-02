@@ -1,3 +1,5 @@
+// Created in C17, and compatible with GCC 11 and above
+
 #include"headers.h"
 #include"main.c"
 #include"process_packet.c"
