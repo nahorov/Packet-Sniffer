@@ -1,4 +1,5 @@
 // Created in C17, compatible with GNU GCC 11 and above
+// Code to print data to log file
 
 void print_data(unsigned char* data, int Size)
 {
