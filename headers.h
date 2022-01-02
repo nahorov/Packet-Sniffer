@@ -1,6 +1,6 @@
-/* Created in C17, compatible with GCC 11 and above.
-This is a compilation of all the header files that are going to be required, pre-declaration of functions
-and variables that are to be used globally by all the functions that comprise this program. */
+// Created in C17, compatible with GNU GCC 11 and above.
+// This is a compilation of all the header files that are going to be required, pre-declaration of functions
+// and variables that are to be used globally by all the functions that comprise this program. */
 
 #include<netinet/in.h>
 #include<errno.h>
