@@ -1,5 +1,5 @@
 // Created in C17, compatible with GCC 11 and above.
-
+// Driver code
 int main()
 {
 	int saddr_size, data_size;
