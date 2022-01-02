@@ -1,4 +1,5 @@
-// Created in C17, and compatible with GCC 11 and above
+// Created in C17, and compatible with GNU GCC 11 and above
+// Implementation instance and master index
 
 #include"headers.h"
 #include"main.c"
