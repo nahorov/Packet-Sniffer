@@ -4,7 +4,7 @@ It is to be natively compiled on the system, so GCC is a prerequisite. This proj
 
 # For Unix-like systems:
 chmod +x packet-sniffer.sh <br>
-./packet-sniffer.sh
+sudo ./packet-sniffer.sh
 
-<br><br>
-NOTE: Given that the results are going to be printed onto a log file, sudoer or root privileges are necessary. 
+<br>
+NOTE: Given that the results are going to be printed onto a log file, sudoer or root privileges are necessary to execute this program, and also to view and review the log file. That is not to be avoided or circumvented.
