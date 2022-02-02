@@ -4,7 +4,7 @@ It is to be natively compiled on the system, so GCC is a prerequisite. This proj
 
 # For Unix-like systems:
 ```
-chmod +x packet-sniffer.sh <br>
+chmod +x packet-sniffer.sh
 sudo ./packet-sniffer.sh
 ```
 <br>
